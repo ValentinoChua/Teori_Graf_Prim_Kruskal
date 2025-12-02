@@ -7,7 +7,8 @@ Soal: (6) Buatlah program menggunakan python terkait algoritma Prim dan algoritm
 
 Gambar ini adalah gambar yang digunakan dalam code algoritma prim
 
-hasil keluaran:
+hasil output:
+
 a — b (1)
 
 b — d (3)
@@ -25,3 +26,19 @@ d — h (3)
 d — i (3)
 
 i — j (4)
+
+<img width="500" height="300" alt="Screenshot 2025-12-02 231058" src="https://github.com/user-attachments/assets/b7d61ea1-2cd7-4c8a-a8e4-190ae5a46239" />
+
+Gambar ini adalah gambar yang digunakan dalam code algoritma kruskal
+
+hasil output:
+
+a — c (1)
+
+e — f (1)
+
+a — b (2)
+
+c — d (3)
+
+d — f (4)
